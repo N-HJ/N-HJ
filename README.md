@@ -23,7 +23,7 @@ const hao jun = {
 [![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
 [![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]()
 <br/>
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+<!-- [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) -->
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 <!-- ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
