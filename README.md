@@ -25,10 +25,28 @@ const haojun = {
   editor: ["vscode", "atom", "xcode"],
 }
 ```
+<center>
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=flat)]()
 [![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/N-HJ/N-HJ?style=flat)]()
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+<br/>
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=N-HJ&repo=N-HJ&countColorcountColor&countColor=%237B1E7A)
+
+About
+
+Visitors badge running on Azure Functions
+Resources
+Readme
+License
+MIT License
+Releases
+No releases published
+
+
+</center>
 <!--
 **N-HJ/N-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
