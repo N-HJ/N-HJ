@@ -1,6 +1,8 @@
 # Neo Hao Jun 👨‍💻
 I am a self-taught developer and a student at Hwa Chong Institution. I enjoy coding, designing, reading, writing and a wide variety of other activities.
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
 [![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=flat-square&label=Star)](https://github.com/N-HJ/MyBadges)
 [![GitHub watchers](https://img.shields.io/github/watchers/tterb/playmusic.svg?style=flat-square&label=Watch)](https://github.com/N-HJ/MyBadges)
 [![GitHub forks](https://img.shields.io/github/forks/tterb/playmusic.svg?style=flat-square&label=Fork)](https://github.com/N-HJ/MyBadges)
@@ -10,7 +12,7 @@ I am a self-taught developer and a student at Hwa Chong Institution. I enjoy cod
 [![Gmail Badge](https://img.shields.io/badge/-neohaojun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neohaojun@gmail.com)](mailto:neohaojun@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const hao jun = {
@@ -19,11 +21,8 @@ const hao jun = {
   languages: [Dart, Swift HTML, CSS, JS, C++, Python],
 }
 ```
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)](https://github.com/N-HJ/N-HJ)
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)](https://github.com/N-HJ/N-HJ)
-[![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)](https://github.com/N-HJ/N-HJ)
-
-<!-- [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) -->
+[![GitHub last commit](https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/N-HJ/N-HJ?style=flat)]()
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 <!-- ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
