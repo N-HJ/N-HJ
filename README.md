@@ -7,14 +7,14 @@
 - C++
 - Python
 
-## [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+## [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=gruvbox)]()
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-HJ)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎:
 - [Instagram](https://www.instagram.com/_lol_hj_/)
 - [Medium](https://medium.com/@neohaojun)
-- [StackOverflow](https://stackoverflow.com/users/13538884/n-hj?tab=profile)
+- [StackOverflow]()
 
 <!--
 **N-HJ/N-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
