@@ -35,17 +35,6 @@ const haojun = {
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=N-HJ&repo=N-HJ&countColorcountColor&countColor=%237B1E7A)
 
-About
-
-Visitors badge running on Azure Functions
-Resources
-Readme
-License
-MIT License
-Releases
-No releases published
-
-
 </center>
 <!--
 **N-HJ/N-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
