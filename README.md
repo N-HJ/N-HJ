@@ -9,9 +9,13 @@
 
 I am a self-taught developer and a student at Hwa Chong Institution. I enjoy coding, designing, reading, writing and a wide variety of other activities.
 
+<center>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-HJ&theme=dark)
+
+</center>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -29,11 +33,19 @@ const haojun = {
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=flat)]()
 [![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/N-HJ/N-HJ?style=flat)]()
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat)]()
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
 
 <br/>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=N-HJ&repo=N-HJ&countColorcountColor&countColor=%237B1E7A)
+
+<br/>
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)]()
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
 
 </center>
 <!--
