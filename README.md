@@ -17,18 +17,18 @@ I am a self-taught developer and a student at Hwa Chong Institution. I enjoy cod
 
 </center>
 
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const haojun = {
   pronouns: "he" | "him" | "his",
   askMeAbout: ["app dev", "web dev", "tech"]
-  languages: [Dart, Swift HTML, CSS, JS, C++, Python],
+  languages: [Dart, Swift, HTML, CSS, JS, C++, Python],
   os: "mac",
   editor: ["vscode", "atom", "xcode"],
 }
 ```
+
 <center>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=flat)]()
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
