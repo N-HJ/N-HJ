@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@neohaojun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@neohaojun/)](https://medium.com/@neohaojun)
 [![Gmail Badge](https://img.shields.io/badge/-neohaojun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neohaojun@gmail.com)](mailto:neohaojun@gmail.com)
 
-I am a self-taught developer and a student at Hwa Chong Institution. I enjoy doing everything other than being productive.
+Student, developer, writer.
 
 <center>
 
