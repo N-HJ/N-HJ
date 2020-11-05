@@ -1,4 +1,4 @@
-# 👨‍💻 Neo Hao Jun
+# 👨‍💻 Hao Jun
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
@@ -25,7 +25,8 @@ const haojun = {
   askMeAbout: ["app dev", "web dev", "tech"]
   languages: [Dart, Swift, HTML, CSS, JS, C++, Python],
   os: "mac",
-  editor: ["vscode", "atom", "xcode"],
+  devTools: ["android studio", "atom", "vscode" "xcode"],
+  designTools: ["Adobe XD", "Figma"],
 }
 ```
 
