@@ -11,9 +11,9 @@ Student, developer, writer.
 
 <center>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=N-HJ&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=neohaojun&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-HJ&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neohaojun&theme=dark)
 
 </center>
 
@@ -31,8 +31,8 @@ const haojun = {
 
 <center>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/N-HJ/N-HJ?style=flat)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/neohaojun/neohaojun?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/neohaojun/neohaojun?style=flat)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat)]()
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
@@ -40,11 +40,11 @@ const haojun = {
 
 <br/>
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=N-HJ&repo=N-HJ&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=neohaojun&repo=neohaojun&countColorcountColor&countColor=%237B1E7A)
 
 </center>
 <!--
-**N-HJ/N-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**neohaojun/neohaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
