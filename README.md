@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/neohaojun?style=flat-square&label=Follow)](https://github.com/neohaojun/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13538884/n-hj)](https://stackoverflow.com/users/13538884/n-hj?tab=profile)
 [![Medium Badge](https://img.shields.io/badge/-@neohaojun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@neohaojun/)](https://medium.com/@neohaojun)
-[![Gmail Badge](https://img.shields.io/badge/-neohaojun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neohaojun@gmail.com)](mailto:neohaojun@gmail.com)
 
 Student, writer, developer, among other things.
 
