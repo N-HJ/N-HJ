@@ -24,7 +24,7 @@ const haojun = {
   askMeAbout: ["app dev", "web dev", "tech"]
   languages: [Dart, Swift, HTML, CSS, JS, C++, Python],
   os: "mac",
-  devTools: ["android studio", "atom", "vscode" "xcode"],
+  devTools: ["android studio", "atom", "vscode", "xcode"],
   designTools: ["Adobe XD", "Figma"],
 }
 ```
