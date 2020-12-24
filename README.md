@@ -36,7 +36,7 @@ const haojun = {
 
 <br/>
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=neohaojun&repo=neohaojun&countColorcountColor&countColor=%237B1E7A)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=neohaojun.neohaojun)
 
 </center>
 <!--
