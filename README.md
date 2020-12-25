@@ -1,6 +1,4 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 👨‍💻 Neo Hao Jun
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Neo Hao Jun
 
 [![GitHub followers](https://img.shields.io/github/followers/neohaojun?style=flat-square&label=Follow)](https://github.com/neohaojun/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13538884/n-hj)](https://stackoverflow.com/users/13538884/neohaojun?tab=profile)
@@ -32,6 +30,7 @@ Student, writer, developer, among other things.
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📈 Statistics 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=neohaojun&count_private=true&show_icons=true&include_all_commits=true&icon_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neohaojun)
