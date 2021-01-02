@@ -39,9 +39,9 @@ Student, writer, developer, among other things.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neohaojun)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b546eb61-5546-4bba-b841-7fb0d62fa7eb/926d1668-6686-4126-b317-70757358d35c.png" height="300px"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b546eb61-5546-4bba-b841-7fb0d62fa7eb/926d1668-6686-4126-b317-70757358d35c.png" height="400px"/></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b546eb61-5546-4bba-b841-7fb0d62fa7eb/ebea53b1-14eb-46e5-b2c7-1092e7c56e49.png" height="300px"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b546eb61-5546-4bba-b841-7fb0d62fa7eb/ebea53b1-14eb-46e5-b2c7-1092e7c56e49.png" height="400px"/></a>
 
 <center>
 
