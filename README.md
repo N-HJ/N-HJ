@@ -39,6 +39,8 @@ Student, writer, developer, among other things.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neohaojun)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b546eb61-5546-4bba-b841-7fb0d62fa7eb/ebea53b1-14eb-46e5-b2c7-1092e7c56e49.png" height="400px"/></a>
+
 <center>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
