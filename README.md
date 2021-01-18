@@ -43,7 +43,7 @@ Student, writer, developer, among other things.
 
 ## 🗂 Projects
 
-#### Education • CATmistry
+### Education • CATmistry
 
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/iphone/index.action)
 [![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg)](https://developer.apple.com/ipad/)
@@ -63,7 +63,7 @@ CATmistry is a Chemistry learning app which caters to Upper Primary and Lower Se
 
 ---
 
-#### Utilities • MakanForFree
+### Utilities • MakanForFree
 
 [![iOS](http://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/iphone/index.action)
 [![Android](http://img.shields.io/badge/platform-Android-blue.svg)](https://www.android.com)
