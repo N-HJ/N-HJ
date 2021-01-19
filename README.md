@@ -59,7 +59,7 @@ CATmistry is a Chemistry learning app which caters to Upper Primary and Lower Se
 <!--   <img src="" height="500" /> -->
 </span>
 
-[![App Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/catmistry/id1545311327)
+[![App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1541376000&h=561e05398c4a2a59b5e291212d641520)](https://apps.apple.com/us/app/catmistry/id1545311327)
 
 ---
 
