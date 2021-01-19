@@ -52,11 +52,13 @@ CATmistry is a Chemistry learning app which caters to Upper Primary and Lower Se
 
 [![CATmistry Card](https://github-readme-stats.vercel.app/api/pin/?username=swiftaccelerator2020&repo=CATmistry)](https://github.com/swiftaccelerator2020/CATmistry)
 
-<span>
-  <img src="Assets/CATmistry - 1.png" height="450" />
-  <img src="Assets/CATmistry - 2.png" height="450" />
-  <img src="Assets/CATmistry - 3.png" height="450" />
-  <img src="Assets/CATmistry - 4.png" height="450" />
+<img src="Assets/CATmistry - 2.png" height="450" />
+
+<!-- <span> -->
+<!--   <img src="Assets/CATmistry - 1.png" height="450" /> -->
+  
+<!--   <img src="Assets/CATmistry - 3.png" height="450" /> -->
+<!--   <img src="Assets/CATmistry - 4.png" height="450" /> -->
 </span>
 
 [![App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1541376000&h=561e05398c4a2a59b5e291212d641520)](https://apps.apple.com/us/app/catmistry/id1545311327)
