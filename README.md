@@ -45,12 +45,17 @@ Student, writer, developer, among other things.
 
 ### Education • CATmistry
 
-[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/iphone/index.action)
+[![iOS](http://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/iphone/)
 [![iPadOS](http://img.shields.io/badge/platform-iPadOS-blue.svg)](https://developer.apple.com/ipad/)
+[![macOS](http://img.shields.io/badge/platform-macOS-blue.svg)](https://developer.apple.com/macos/)
+[![iPadOS](http://img.shields.io/badge/platform-Android-blue.svg)](https://www.android.com)
+[![iPadOS](http://img.shields.io/badge/platform-Web-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 CATmistry is a Chemistry learning app which caters to Upper Primary and Lower Secondary students, equipped with concise and understandable concepts as well as fun in house games to encourage interactive learning and breed a love for Chemistry.
 
 [![CATmistry Card](https://github-readme-stats.vercel.app/api/pin/?username=swiftaccelerator2020&repo=CATmistry)](https://github.com/swiftaccelerator2020/CATmistry)
+[![CATmistry Card](https://github-readme-stats.vercel.app/api/pin/?username=cryptoAlgorithm&repo=CATmistry)](https://github.com/cryptoAlgorithm/CATmistry)
+[![CATmistry Card](https://github-readme-stats.vercel.app/api/pin/?username=catmistry-app&repo=catmistry-app.github.io)](https://github.com/catmistry-app/catmistry-app.github.io)
 
 <img src="Assets/CATmistry - 2.png" height="450" />
 
