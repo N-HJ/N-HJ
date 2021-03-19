@@ -7,6 +7,12 @@
 
 Student, writer, developer, among other things.
 
+## 🏆 Awards/Achievements
+
+<span>
+  <img src="https://img.shields.io/badge/app development with swift level 1-%23F58450.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
+</span>
+
 ## 💬 Languages
 <span>
   <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
