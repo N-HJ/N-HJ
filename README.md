@@ -11,6 +11,7 @@ Student, writer, developer, among other things.
 
 <span>
   <img src="https://img.shields.io/badge/app development with swift level 1-%23F58450.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
+   <img src="https://img.shields.io/badge/apple teacher-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
 </span>
 
 ## 💬 Languages
